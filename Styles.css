@@ -1,0 +1,18 @@
+body {
+    background-color: #c2c2d6;
+  }
+ h1   {
+    text-align: center;
+    color: #0059b3;
+    font-family: arial;
+    font-style: italic;
+ }
+ p  {
+     text-align: center;
+ }
+ img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
